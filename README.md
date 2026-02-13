@@ -8,6 +8,8 @@ TCWT is constructed within **DHOST Class I**, the only surviving branch of scala
 
 ### 🔄 Comparison: Standard Cosmology vs. TCWT
 
+In TCWT, the TimeWave is the primary reality. It is an eternal, beginningless oscillation. Spacetime, Big Bangs, and Black Holes are secondary structures—ripples, bubbles, and knots—emerging from a wave that has always been
+
 | Feature | Standard Big Bang ($\Lambda$CDM) | TCWT (TimeWave Theory) |
 | :--- | :--- | :--- |
 | **Origin of Time** | Time begins at $t=0$ (The Singularity). | **Eternal Oscillation:** The TimeWave has no beginning. |
