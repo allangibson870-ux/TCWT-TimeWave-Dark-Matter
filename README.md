@@ -54,4 +54,31 @@ Perform numerical simulations of the
 Refine the Vainshtein screening parameters to match Solar System PPN bounds.
 Validate TCWT signatures against Planck Satellite CMB data.
 
+markdown
+---
 
+## 🗺 Project Roadmap & Milestones
+This roadmap outlines the path from conceptual formalisation to observational validation. We welcome contributors for all phases.
+
+### Phase 1: Mathematical Foundations (Current)
+*   [ ] **Lagrangian Refinement:** Define the specific functional form of $f(X)$ to ensure consistency with Horndeski stability.
+*   [ ] **Screening Mechanism:** Develop the theoretical framework for Vainshtein or Chameleon screening to satisfy Solar System PPN bounds.
+*   [ ] **Energy-Momentum Verification:** Mathematically verify that the $\Theta$ field satisfies the Bianchi Identities for energy conservation.
+
+### Phase 2: Numerical Simulations
+*   [ ] **Background Evolution Solver:** Create a Python/C++ script to solve the Friedmann equations with the $\Theta$ field contribution.
+*   [ ] **Perturbation Analysis:** Simulate the growth of cosmic structures to see if TCWT can resolve the $\sigma_8$ tension.
+*   [ ] **Gravitational Wave dispersion:** Model the $c_T$ propagation speed to find the "safe" parameter space for $\beta$.
+
+### Phase 3: Observational Comparison
+*   [ ] **CMB Power Spectrum:** Use [CLASS](https://lesgourg.github.io) or [CAMB](https://camb.info) to generate a TCWT-based CMB spectrum for comparison with Planck data.
+*   [ ] **Lensing Profiles:** Compare predicted $\Theta$-field "ripples" with observed galaxy cluster lensing data.
+*   [ ] **Standard Model Benchmarking:** Formally compare TCWT performance against the $\Lambda$CDM model using MCMC likelihood analysis.
+
+---
+
+## 🚀 How to Get Involved
+New contributors can jump in right away by:
+1.  **Opening an Issue:** Suggest a specific functional form for the $V(\Theta)$ potential.
+2.  **Code Contributions:** Help build the basic numerical solvers for the field equations.
+3.  **Literature Review:** Help document how TCWT compares to existing "Emergent 
