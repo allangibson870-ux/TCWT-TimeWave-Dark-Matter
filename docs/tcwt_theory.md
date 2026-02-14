@@ -66,3 +66,23 @@ where:
 - \(G_{\rm eff}\) is an effective gravitational coupling  
 
 A suppression of the growth factor by 5–10% (required
+
+🌊 4. The Macro-Knot Ontology: Resolving the 
+ Tension
+TCWT reinterprets the cosmological constant (
+) and the expansion of space as the Kinetic Relaxation of the 
+ field.
+The Nucleation (Big Bang): The "Big Bang" is defined as a high-frequency phase transition where the eternal TimeWave (
+) forms a localized Macro-Knot (our Universe).
+The Unravelling Force: Spacetime expansion is the mechanical process of this knot loosening. The "friction" (
+) in the perturbation equation is the Temporal Viscosity of the field as it resists unravelling.
+Critical Looseness: As the universe expands, the knot reaches a threshold of "Critical Looseness." At this point, the internal frequency 
+ drops, and the field transitions from a tension-dominated state to a flow-dominated state. This creates the Late-Time Acceleration (Dark Energy) observed today.
+
+ 
+🏺 5. Cosmological Heredity and Dark Matter
+In TCWT, Dark Matter is not merely an oscillating field; it is the Topological Memory of the TimeWave.
+Upstream Remnants: The TimeWave is an eternal carrier signal. As it flows, it carries "orphaned micro-knots" (Black Holes) from previous "upstream" universes.
+Inheritance: Our "Chestnut" (universe) nucleated around these pre-existing tangles. This explains why Dark Matter is gravitationally active but electromagnetically silent—it is a remnant of a previous phase transition that predates our local Big Bang.
+Singularity Resolution: Within these knots (Black Holes), the frequency 
+ reaches a finite Saturation Point. Time does not end; it simply oscillates at an extreme, finite density, preserving Phase-Memory and resolving the Information Paradox.
