@@ -10,34 +10,34 @@ TCWT is a scalar–tensor cosmological framework in which a single scalar field
 The model is constructed within the **DHOST Class I** family of scalar–tensor theories,  
 the only branch that remains compatible with the GW170817 constraint on the speed of gravity.
 
----
+**1. Action and Field Content (The TCWT Lagrangian)**
 
-## 1. Action and Field Content
+The TCWT action is constructed within the DHOST Class I family to ensure a ghost-free, second-order evolution of the TimeWave field (
+). In this framework, the standard DHOST functions are reinterpreted as specific Mechanical Tensions:
 
-The TCWT action is schematically:
-
-\[
-S = \int d^4x \sqrt{-g}
-\left[
-\frac{M_{\rm Pl}^2}{2}R
-+ G_2(\phi,X)
-+ G_3(\phi,X)\Box\phi
-+ G_4(\phi,X)R
-+ \mathcal{L}_{\rm matter}
-\right]
-\]
-
-where:
-
-- \(X = -\frac{1}{2}(\partial\phi)^2\) is the kinetic term  
-- \(G_2\) provides the dark-matter-like behaviour  
-- \(G_3\) introduces Vainshtein screening  
-- \(G_4\) encodes conformal/disformal couplings to gravity  
-
-The TimeWave interpretation is conceptual: \(\phi\) defines an effective time structure whose oscillations behave as dark matter.
-
----
-
+The TimeWave Lagrangian 
+ is defined by four primary components:
+A. The Baseline Oscillation: 
+This term provides the "Potential of the Eternal Sea."
+Physical Meaning: The background frequency 
+ of the TimeWave.
+Dark Matter Role: It generates the high-frequency coherent oscillations that behave as pressureless "fuzzy" dark matter (
+ eV).
+B. The Unravelling Friction: 
+This is the "Knot-Tension" term (Cubic Galileon).
+Physical Meaning: It represents the Internal Viscosity of the TimeWave.
+Vainshtein Screening: It ensures that in high-density regions (like our solar system), the TimeWave "stiffens," hiding its modifications and ensuring we match General Relativity's local predictions.
+C. The Metric Coupling: 
+This represents the "String-Metric Interface."
+Physical Meaning: How the frequency of the TimeWave "thickens" the medium of spacetime (the Refractive Index).
+Gravitational Waves: In TCWT, 
+ is strictly constrained to satisfy the DHOST Class I degeneracy condition, ensuring that gravitational waves travel at the speed of light (
+), consistent with GW170817.
+D. The Kinetic Tension: 
+Physical Meaning: The local energy density of the knot.
+Hubble Tension: The non-linear evolution of 
+ as the knot "loosens" provides the late-time acceleration (Dark Energy) and resolves the discrepancy between early and late universe measurements of 
+.
 ## 2. Dark Matter Behaviour
 
 For an ultra-light mass scale:
@@ -67,8 +67,9 @@ where:
 
 A suppression of the growth factor by 5–10% (required
 
-🌊 4. The Macro-Knot Ontology: Resolving the 
- Tension
+**4. The Macro-Knot Ontology: Resolving the 
+ Tension**
+ 
 TCWT reinterprets the cosmological constant (
 ) and the expansion of space as the Kinetic Relaxation of the 
  field.
@@ -80,7 +81,8 @@ Critical Looseness: As the universe expands, the knot reaches a threshold of "Cr
  drops, and the field transitions from a tension-dominated state to a flow-dominated state. This creates the Late-Time Acceleration (Dark Energy) observed today.
 
  
-🏺 5. Cosmological Heredity and Dark Matter
+**5. Cosmological Heredity and Dark Matter**
+
 In TCWT, Dark Matter is not merely an oscillating field; it is the Topological Memory of the TimeWave.
 Upstream Remnants: The TimeWave is an eternal carrier signal. As it flows, it carries "orphaned micro-knots" (Black Holes) from previous "upstream" universes.
 Inheritance: Our "Chestnut" (universe) nucleated around these pre-existing tangles. This explains why Dark Matter is gravitationally active but electromagnetically silent—it is a remnant of a previous phase transition that predates our local Big Bang.
