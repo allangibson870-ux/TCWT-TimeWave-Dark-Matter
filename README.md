@@ -3,16 +3,15 @@
 Scalar-tensor K-essence model where time is a coherent oscillation behaving as dark matter.
 
 ## Project Overview
-This repository contains the numerical implementation and diagnostic tools for TCWT.
+This repository contains the numerical implementation and diagnostic tools for the Temporal Curvature Wave Theory, built upon the hi_class/CLASS framework.
 
 ### Directory Contents
-- **/project_contents**: Core code, configs, and scripts.
+- **/project_contents**: Contains all core code, including:
+  - `configs/`: Selection of .ini files (eg. tcwt_stabilized_squeeze.ini)
+  - `plots/`: Key result images and visualizations.
+  - `scripts/`: Over 70 diagnostic tools (eg. plot_tcwt.py)
 
 ## Quick Start
-To run a diagnostic script:
+To run a diagnostic script from the root:
 ```bash
 python3 project_contents/scripts/plot_tcwt.py
-```
-
-## Results
-![Final Squeeze Plot](project_contents/plots/final_squeeze_plot.png)
