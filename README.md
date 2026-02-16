@@ -20,10 +20,14 @@ This repository contains the tools to solve the cosmic linear anisotropy equatio
   - `scripts/`: Over 70 diagnostic Python tools for analyzing the temporal wave dynamics.
 
 ## Quick Start
-To run a diagnostic script and view the wave stability:
-
 ```bash
 python3 project_contents/scripts/plot_tcwt.py
+```
+
+## Results
+![Final Squeeze Plot](project_contents/plots/final_squeeze_plot.png)
+
+
 
 
 
