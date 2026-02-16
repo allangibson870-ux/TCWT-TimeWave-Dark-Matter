@@ -3,7 +3,7 @@
 Scalar-tensor K-essence model where time is a coherent oscillation behaving as dark matter.
 
 ## Project Overview
-This repository contains the numerical implementation and diagnostic tools for the Temporal Curvature Wave Theory.
+This repository contains the numerical implementation and diagnostic tools for TCWT.
 
 ### Directory Contents
 - **/project_contents**: Core code, configs, and scripts.
