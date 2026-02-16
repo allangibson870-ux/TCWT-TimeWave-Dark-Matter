@@ -1,0 +1,32 @@
+#!/bin/bash
+mkdir -p output
+echo "h = 0.674
+omega_b = 0.02237
+omega_cdm = 0.1200
+phi_initial = 1.0
+phi_prime_initial = 0.0
+gravity_model = tcwt
+tcwt_upsilon_breaking = 0.19
+tcwt_c3_galileon = 1.0
+tcwt_M_coupling = 50.0
+tcwt_phi_mass = 1.0
+output = mPk
+z_pk = 0
+root = output/sq_std_" > sq_std.ini
+
+echo "h = 0.674
+omega_b = 0.02237
+omega_cdm = 0.3500
+phi_initial = 1.0
+phi_prime_initial = 0.0
+gravity_model = tcwt
+tcwt_upsilon_breaking = 0.19
+tcwt_c3_galileon = 1.0
+tcwt_M_coupling = 50.0
+tcwt_phi_mass = 1.0
+output = mPk
+z_pk = 0
+root = output/sq_dense_" > sq_dense.ini
+
+./class sq_std.ini
+./class sq_dense.ini
