@@ -21,10 +21,9 @@ This repository contains the tools to solve the cosmic linear anisotropy equatio
 
 ## Quick Start
 To run a diagnostic script and view the wave stability:
+
 ```bash
 python3 project_contents/scripts/plot_tcwt.py
-
-![Final Squeeze Plot](project_contents/plots/final_squeeze_plot.png)
 
 
 
